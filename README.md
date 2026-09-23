@@ -27,7 +27,6 @@ The site was originally built in Framer. I rebuilt it by hand as a lightweight s
 - [x] Publish on GitHub Pages
 - [ ] Host images in the repository
 - [ ] Rebuild the project pages
-- [ ] Connect the custom domain sabachikhladze.com
 
 ---
 
